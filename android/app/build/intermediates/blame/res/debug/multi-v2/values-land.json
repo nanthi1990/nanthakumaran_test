@@ -4,7 +4,26 @@
             "outputFile": "/Users/nanthan/Desktop/nanthakumaran_test/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-land/values-land.xml",
             "map": [
                 {
-                    "source": "/Users/nanthan/.gradle/caches/transforms-2/files-2.1/6538c01420cfe188fb4dedbeb3f61423/res/values-land/values-land.xml",
+                    "source": "/Users/nanthan/.gradle/caches/transforms-2/files-2.1/1036d7147142be4353b547d23a6ca586/res/values-land/values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "10",
+                        "endOffsets": "222"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "264",
+                        "endLines": "8",
+                        "endColumns": "10",
+                        "endOffsets": "431"
+                    }
+                },
+                {
+                    "source": "/Users/nanthan/.gradle/caches/transforms-2/files-2.1/5167b0a66db7b41c5eec540326975763/res/values-land/values-land.xml",
                     "from": {
                         "startLines": "2,3,4",
                         "startColumns": "4,4,4",

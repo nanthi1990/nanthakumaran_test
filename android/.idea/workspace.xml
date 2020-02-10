@@ -2,30 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7169f28b-e781-4b4f-8a4c-b6cc4f6e31d7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/DoubleConversion.build/Objects-normal/x86_64/DoubleConversion-dummy.o" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/DoubleConversion.build/Objects-normal/x86_64/DoubleConversion-dummy.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/React-Core.build/Objects-normal/x86_64/RCTWrapperViewController.o" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/Pods.build/Debug-iphonesimulator/React-Core.build/Objects-normal/x86_64/RCTWrapperViewController.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/XCBuildData/041bc4734941518a3f67a082c0774ebe-desc.xcbuild" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/XCBuildData/041bc4734941518a3f67a082c0774ebe-desc.xcbuild" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/XCBuildData/BuildDescriptionCacheIndex-0df8d815aa2e20cb8de3981889b38836" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/XCBuildData/BuildDescriptionCacheIndex-0df8d815aa2e20cb8de3981889b38836" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/XCBuildData/build.db" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/XCBuildData/build.db" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/XCBuildData/d031711fc80516aecbae9e1a10df579d-desc.xcbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/XCBuildData/d031711fc80516aecbae9e1a10df579d-manifest.xcbuild" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/nanthakumaran_test.build/Debug-iphonesimulator/nanthakumaran_testTests.build/Objects-normal/x86_64/nanthakumaran_testTests.o" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Intermediates.noindex/nanthakumaran_test.build/Debug-iphonesimulator/nanthakumaran_testTests.build/Objects-normal/x86_64/nanthakumaran_testTests.o" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/DoubleConversion/libDoubleConversion.a" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/DoubleConversion/libDoubleConversion.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/React-Core/libReact-Core.a" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/React-Core/libReact-Core.a" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app.dSYM/Contents/Resources/DWARF/nanthakumaran_test" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app.dSYM/Contents/Resources/DWARF/nanthakumaran_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/Base.lproj/LaunchScreen.nib/objects-13.0+.nib" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/Base.lproj/LaunchScreen.nib/objects-13.0+.nib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/Base.lproj/LaunchScreen.nib/runtime.nib" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/Base.lproj/LaunchScreen.nib/runtime.nib" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/PlugIns/nanthakumaran_testTests.xctest.dSYM/Contents/Resources/DWARF/nanthakumaran_testTests" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/PlugIns/nanthakumaran_testTests.xctest.dSYM/Contents/Resources/DWARF/nanthakumaran_testTests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/PlugIns/nanthakumaran_testTests.xctest/nanthakumaran_testTests" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/PlugIns/nanthakumaran_testTests.xctest/nanthakumaran_testTests" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/_CodeSignature/CodeResources" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/_CodeSignature/CodeResources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/nanthakumaran_test" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/Build/Products/Debug-iphonesimulator/nanthakumaran_test.app/nanthakumaran_test" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/30IYFLCRCC33X/modules.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/30IYFLCRCC33X/modules.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/3GIDWX4DIQZLD/modules.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/3GIDWX4DIQZLD/modules.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/3O5ULWJKL8CIB/Accelerate-1IKW7DALYIORV.pcm" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/3O5ULWJKL8CIB/Accelerate-1IKW7DALYIORV.pcm" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/3O5ULWJKL8CIB/modules.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/3O5ULWJKL8CIB/modules.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/3OX4GHIZ8RHW9/modules.idx" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/3OX4GHIZ8RHW9/modules.idx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/Session.modulevalidation" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/ModuleCache.noindex/Session.modulevalidation" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/info.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/build/nanthakumaran_test/info.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/5.5/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.5/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build/generated/rncli/src/main/java/com/facebook/react/PackageList.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/build/generated/rncli/src/main/java/com/facebook/react/PackageList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Podfile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Podfile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Manifest.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Manifest.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/xcuserdata/nanthan.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Pods.xcodeproj/xcuserdata/nanthan.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test-tvOS/Pods-nanthakumaran_test-tvOS.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test-tvOS/Pods-nanthakumaran_test-tvOS.debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test-tvOS/Pods-nanthakumaran_test-tvOS.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test-tvOS/Pods-nanthakumaran_test-tvOS.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test-tvOSTests/Pods-nanthakumaran_test-tvOSTests.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test-tvOSTests/Pods-nanthakumaran_test-tvOSTests.debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test-tvOSTests/Pods-nanthakumaran_test-tvOSTests.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test-tvOSTests/Pods-nanthakumaran_test-tvOSTests.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test/Pods-nanthakumaran_test-acknowledgements.markdown" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test/Pods-nanthakumaran_test-acknowledgements.markdown" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test/Pods-nanthakumaran_test-acknowledgements.plist" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test/Pods-nanthakumaran_test-acknowledgements.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test/Pods-nanthakumaran_test.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test/Pods-nanthakumaran_test.debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test/Pods-nanthakumaran_test.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_test/Pods-nanthakumaran_test.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_testTests/Pods-nanthakumaran_testTests.debug.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_testTests/Pods-nanthakumaran_testTests.debug.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_testTests/Pods-nanthakumaran_testTests.release.xcconfig" beforeDir="false" afterPath="$PROJECT_DIR$/../ios/Pods/Target Support Files/Pods-nanthakumaran_testTests/Pods-nanthakumaran_testTests.release.xcconfig" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@egjs/hammerjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@egjs/hammerjs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/@types/hammerjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/@types/hammerjs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/hammerjs/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/hammerjs/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/node_modules/hoist-non-react-statics/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/node_modules/hoist-non-react-statics/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native-gesture-handler/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../node_modules/react-native/node_modules/@react-native-community/cli/build/commands/server/external/xsel" beforeDir="false" afterPath="$PROJECT_DIR$/../node_modules/react-native/node_modules/@react-native-community/cli/build/commands/server/external/xsel" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../yarn.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../yarn.lock" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,8 +35,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
+    <option name="isMigrated" value="true" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="Nexus_5X_API_29_x86" />
   <component name="ExternalProjectsManager">
@@ -105,8 +105,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="409" />
-    <option name="y" value="36" />
+    <option name="x" value="408" />
+    <option name="y" value="35" />
     <option name="width" value="635" />
     <option name="height" value="772" />
   </component>
@@ -116,13 +116,14 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane" />
+      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/Library/Android/sdk" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
@@ -215,31 +216,31 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="409" y="36" width="635" height="772" extended-state="0" />
+    <frame x="408" y="35" width="635" height="772" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" visible="true" weight="0.3288364" />
-      <window_info id="Structure" side_tool="true" />
-      <window_info id="Build Variants" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="Resources Explorer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
       <window_info id="Captures" order="0" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Run" />
-      <window_info anchor="bottom" id="Logcat" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="TODO" />
-      <window_info anchor="bottom" id="Android Profiler" />
-      <window_info anchor="bottom" id="Debug" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Build" visible="true" weight="0.32941177" />
-      <window_info anchor="right" id="Device File Explorer" side_tool="true" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Gradle" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.32715008" />
+      <window_info id="Structure" order="2" side_tool="true" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Build Variants" order="4" side_tool="true" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Designer" order="6" />
+      <window_info id="Resources Explorer" order="7" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info anchor="bottom" id="Run" order="0" />
+      <window_info anchor="bottom" id="Logcat" order="1" />
+      <window_info anchor="bottom" id="TODO" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" />
+      <window_info anchor="bottom" id="Terminal" order="4" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="6" />
+      <window_info anchor="bottom" id="Build" order="7" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Android Profiler" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Gradle" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info anchor="right" id="Palette&#9;" order="4" />
     </layout>
   </component>
 </project>
