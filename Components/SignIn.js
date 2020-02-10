@@ -51,13 +51,13 @@ class SignIn extends Component {
 
     onChangeEmail = (text) =>{
         this.setState({
-            'Email': text
+            'email': text
         });
     }
 
     onChangePassword = (text) =>{
         this.setState({
-            'Password': text
+            'password': text
         });
     }
 
@@ -114,7 +114,7 @@ class SignIn extends Component {
                         </FormItem>
                         <Text style={styles.errorLables}> {emailError} </Text>
                         <FormItem inlineLabel >
-                            <Label>password</Label>
+                            <Label>Password</Label>
                             <Input placeholder='**********' onChangeText={this.onChangePassword}  value={password} />
                             
                         </FormItem>
