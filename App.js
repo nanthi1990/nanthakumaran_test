@@ -8,7 +8,7 @@
 
 import React, {Component} from 'react';
 import { createAppContainer,createStackNavigator} from "react-navigation";
-import SignIn from './Component/SignIn';
+import SignIn from './Components/SignIn';
 
 const AppNavigator = createStackNavigator({
   SignIn:SignIn,
